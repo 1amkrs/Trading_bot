@@ -1,7 +1,4 @@
-# ChatGPT_Trading_Bot
-
-This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
-
+ChatGPT_Trading_Bot
 
 ## Overview
 
@@ -50,7 +47,3 @@ def run_colab():
     return jsonify(message='colab notebook ran successfully')
 
 ```
-
-## Credits & More Resources
-
-Credits for the notebook go to the AI4FinanceFoundation, and for the API go to Alpaca.
